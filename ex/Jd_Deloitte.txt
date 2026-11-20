@@ -1,0 +1,41 @@
+Artificial Intelligence & Engineering
+ 
+AI & Engineering leverages cutting-edge engineering capabilities to help build, deploy, and operate integrated/verticalized sector solutions in software, data, AI, network, and hybrid cloud infrastructure. These insights are powered by engineering for business advantage, helping transform mission-critical operations. 
+ 
+Join our AI & Engineering team to help transform technology platforms, driving innovation, and help make a significant impact on our clients' achievements. You’ll work alongside talented professionals reimagining and re-engineering operations and processes that could be critical to businesses. 
+ 
+Level: - Software Engineer III
+ 
+As a Software Engineer III at Deloitte Consulting, you will design, develop, and deploy enterprise-scale software solutions, lead the creation of robust pipelines and manage code deployment across environments. You will collaborate with cross-functional, global teams to translate functional requirements into effective deliverables, independently guiding and mentoring junior team members. Your role spans the full project lifecycle, including estimation, planning, execution, and tracking key metrics for analysis, ensuring high-quality and timely delivery of solutions.
+ 
+ 
+Work you'll do
+ 
+• Collaborating with business and functional stakeholders to gather requirements and assess impacts to application and integration architecture
+• Designing, developing, and deploying scalable software solutions, APIs, and microservices aligned to technical standards and quality requirements
+• Preparing technical designs, resolving requirement ambiguities, and supporting solution planning, estimation, and execution across the project lifecycle
+• Leading code reviews, guiding development standards, and mentoring junior team members across engineering deliverables
+• Working with cross-functional and client-facing teams to track deliverables, report status, and automate routine development or operational tasks where applicable
+ 
+The team
+Engineering as a Service provides complete design, implementation, and technology operations, leveraging our core engineering expertise. We transform engineering teams, modernize technology, and deliver complex programs with a product engineering approach. Our flexible delivery models—traditional teams, pools, or pods—are tailored to each client’s needs, offering engineering-led advisory, implementation, and operational capabilities to accelerate innovation.
+ 
+Location: Bengaluru/Hyderabad
+Shift Timings: 11 AM to 8 PM or 2 PM to 11 PM
+ 
+Qualifications
+Required:
+• 6–8 years of experience building production-grade applications using Python
+• Experience developing backend applications using Django, FastAPI, or Flask
+• Experience developing front-end applications using React, Angular, or Vue.js
+• Experience building AI-driven applications using LangChain, LangGraph, or large language models
+• Experience designing prompt workflows and evaluating prompt outputs for AI applications
+• Experience designing application programming interfaces using Representational State Transfer or GraphQL and working with microservices architecture
+• Bachelor of Engineering, Bachelor of Technology, Master of Computer Applications, or Master of Science in Computer Science from an accredited university
+Preferred:
+• Experience working with Structured Query Language and NoSQL databases
+• Experience with GitHub Actions, GitLab continuous integration/continuous delivery, Docker, and Kubernetes
+• Experience deploying applications on Amazon Web Services, Google Cloud Platform, or Microsoft Azure
+• Experience with machine learning operations tools such as MLflow or Vertex AI Pipelines
+• Experience building real-time systems using Kafka, Redis Streams, or WebSockets
+• Experience with automated testing using PyTest, Selenium, or Playwright
